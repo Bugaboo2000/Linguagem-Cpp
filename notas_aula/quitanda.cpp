@@ -1,7 +1,7 @@
 #include <iostream>
 using namespace std;
 #define PRECO 1.99
-/* Código retirado do artigo "Linguagens C++ - Notas de Aula" do autor professor Armando Luiz Delgado, disponível na página 6
+/* Notas de Aula" do autor professor Armando Luiz,página 6
 */
 int main(){
 int pera = 3;
